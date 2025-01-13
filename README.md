@@ -1,2 +1,3 @@
 # Intensity-Based-Lighting
-A rather intuitive approach to intensity based lighting using LDR and MSP430 microcontroller.
+A rather overkill approach to intensity based lighting using LDR.
+# Tinkercad link for Simulation - [Link](https://www.tinkercad.com/things/5OT6ujhYzpi-ldr-lcd-arduino)
